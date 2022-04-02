@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-02T21:54:11.549882683Z"
+    description: A Helm chart for Kubernetes
+    digest: c03220ed3ababb7848919d60cc71d29099f154fc7e664e386c9fc73fb70f2633
+    name: test-chart
+    type: application
+    urls:
+    - https://github.com/Renegade-Master/helm-charts/releases/download/test-chart-0.1.1/test-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-04-02T21:54:11.549889083Z"
